@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @epic-croswords
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @epic-croswords Aka Mahesh Pansare
+- 👀 I’m interested in Devops 
+- 🌱 I’m currently learning terraform scripts 
+- 💞️ I’m looking to collaborate on terrafrom scripts & Ansible repo
+- 📫 How to reach me at maheshpansare099@gmail.com
 
 <!---
 epic-croswords/epic-croswords is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
