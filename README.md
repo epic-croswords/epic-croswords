@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @epic-croswords Aka Mahesh Pansare
-- 👀 I’m interested in Devops
-- 🌱 I’m currently doing and working with multiple projects
-- 💞️ I’m looking to collaborate on bash/terraform scripts & Ansible repo
+- 👋 Hi, I’m @epic-croswords Aka **Mahesh Pansare**
+- 👀 I’m interested in learing DevOps tools & terminology in practical way 
+- 🌱 I’m currently doing multiple projects trying to getting more & more handson knowledge, and trying to land a good job in DevOps
 - 📫 How to reach me at maheshpansare099@gmail.com
 
 <!---
