@@ -1,3 +1,4 @@
+Courses:
 https://learning.oreilly.com/course/red-hat-openshift/9780137441938/
 https://learning.oreilly.com/videos/linux-troubleshooting-red/9780135207598/9780135207598-LTRB_01_02_05/
 https://learning.oreilly.com/videos/52-weeks-of/080232022VIDEOPAIML/
@@ -11,11 +12,5 @@ https://learning.oreilly.com/course/real-world-devops-project/9781835083956/
 
 
 
-
-
-
-
-
-
-
+Books: 
 https://learning.oreilly.com/library/view/automating-devops-with/9781803233000/
