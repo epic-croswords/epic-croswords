@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
 - 🌱 I’m currently learning **K8s, Azure cloud, Helm, python**
 
-- 💬 Ask me about **Devops stuff, Opensource tools, YAML/Bash scripting,CI/CD, Monitoring and list goes on**
+- 💬 Ask me about **Devops stuff, YAML/Bash/Python scripting, CI/CD, Monitoring, AWS, Opensource tools, Devops projects**
 
-- 📫 How to reach me **maheshpansare099@gmail.com**
+- 📫 How to reach me **mahesh.pansareit@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
